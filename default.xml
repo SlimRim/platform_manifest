@@ -26,7 +26,7 @@
   <project path="dalvik" name="SlimRoms/android_dalvik" remote="github" revision="jb4.2" />
   <project path="development" name="SlimRoms/android_development" remote="github" revision="jb4.2" />
   <project path="device/common" name="SlimRoms/device_common" remote="github" revision="jb4.2" />
-  <project path="device/htc/msm8660-common" name="SlimRim/android_device_htc_msm8660-common" remote="github" revision="cm-10.1" />
+  <project path="device/htc/msm8660-common" name="johnnyslt/android_device_htc_msm8660-common" remote="github" revision="cm-10.1" />
   <project path="device/htc/shooteru" name="SlimRim/android_device_htc_shooteru" remote="github" revision="cm-10.1"  />
   <!--project path="device/generic/armv7-a-neon" name="device/generic/armv7-a-neon" />
   <project path="device/generic/armv7-a" name="device/generic/armv7-a" /> -->
@@ -228,7 +228,7 @@
   <project path="hardware/msm7k" name="SlimRoms/hardware_msm7k" remote="github" revision="jb4.2" />
   <project path="hardware/qcom/audio" name="SlimRoms/hardware_qcom_audio" remote="github" revision="jb4.2" />
   <project path="hardware/qcom/audio-caf" name="johnnyslt/android_hardware_qcom_audio-caf"  remote="github" revision="cm-10.1" />
-   <project path="hardware/qcom/audio-legacy" name="johnnyslt/android_hardware_qcom_audio-legacy"  remote="github" revision="cm-10.1" />
+  <project path="hardware/qcom/audio-legacy" name="johnnyslt/android_hardware_qcom_audio-legacy"  remote="github" revision="cm-10.1" />
   <project path="hardware/qcom/bt" name="SlimRoms/hardware_qcom_bt" remote="github" revision="jb4.2" />
   <project path="hardware/qcom/camera" name="platform/hardware/qcom/camera" revision="refs/tags/android-4.2.1_r1.2" />
   <project path="hardware/qcom/display" name="SlimRoms/hardware_qcom_display" remote="github" revision="jb4.2" />
