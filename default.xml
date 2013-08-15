@@ -392,7 +392,7 @@
 
   <!-- New Additions for slim -->
   <project path="vendor/slim" name="SlimRoms/vendor_slim" remote="github" revision="jb4.3" />
-  <project path="vendor/htc" name="johnnyslt/android_vendor_htc" remote="github" revision="cm-10.1"  />
+  <project path="vendor/htc" name="johnnyslt/android_vendor_htc" remote="github" revision="cm-10.2"  />
 
   <!-- Slim File Manager -->
   <project path="packages/apps/SlimFileManager" name="SlimRoms/packages_apps_SlimFileManager" remote="github" revision="jb4.3" />
