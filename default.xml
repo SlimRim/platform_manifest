@@ -245,8 +245,7 @@
   <project path="hardware/libhardware_legacy" name="SlimRoms/hardware_libhardware_legacy" remote="github" revision="jb4.3" />
   <project path="hardware/msm7k" name="SlimRoms/hardware_msm7k" remote="github" revision="jb4.3" />
   <project path="hardware/qcom/audio" name="SlimRoms/hardware_qcom_audio" remote="github" revision="jb4.3" />
-  <project path="hardware/qcom/audio-caf" name="johnnyslt/android_hardware_qcom_audio-caf"  remote="github" revision="cm-10.2" />
-  <project path="hardware/qcom/audio-legacy" name="johnnyslt/android_hardware_qcom_audio-legacy"  remote="github" revision="cm-10.1" />
+  <project path="hardware/qcom/audio-caf" name="SlimRoms/android_hardware_qcom_audio-caf"  remote="github" revision="cm-10.2" />
   <project path="hardware/qcom/bt" name="SlimRoms/hardware_qcom_bt" remote="github" revision="jb4.3" />
   <project path="hardware/qcom/display" name="SlimRoms/hardware_qcom_display" remote="github" revision="jb4.3" />
   <project path="hardware/qcom/display-legacy" name="johnnyslt/android_hardware_qcom_display-legacy"  remote="github" revision="cm-10.2" />
