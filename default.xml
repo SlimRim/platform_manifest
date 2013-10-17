@@ -11,7 +11,7 @@
   <remote name="johnnyslt"
            fetch="https://github.com/johnnyslt/" />
 
-  <default revision="refs/tags/android-4.3_r3.1"
+  <default revision="refs/tags/android-4.3.1_r1"
            remote="aosp"
            sync-j="4" />
 
@@ -393,6 +393,9 @@
   <!-- New Additions for slim -->
   <project path="vendor/slim" name="SlimRoms/vendor_slim" remote="github" revision="jb4.3" />
   <project path="vendor/htc" name="johnnyslt/android_vendor_htc" remote="github" revision="cm-10.2"  />
+
+  <!--CyanogenMod Power Hal -->
+  <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" remote="github" revision="cm-10.2" />
 
   <!-- Slim File Manager -->
   <project path="packages/apps/SlimFileManager" name="SlimRoms/packages_apps_SlimFileManager" remote="github" revision="jb4.3" />
