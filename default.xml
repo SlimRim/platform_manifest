@@ -397,6 +397,15 @@
   <!--CyanogenMod Power Hal -->
   <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" remote="github" revision="cm-10.2" />
 
+  <!--CyanogenMod DSPManager -->
+  <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" remote="github" revision="cm-10.2" />
+
+  <!--CyanogenMod BluetoothEX -->
+  <project path="packages/apps/BluetoothExt" name="CyanogenMod/android_packages_apps_BluetoothExt" remote="github" revision="cm-10.2" />
+
+  <!--CyanogenMod system qcom -->
+  <project path="system/qcom" name="CyanogenMod/android_system_qcom" remote="github" revision="cm-10.2" />
+  
   <!-- Slim File Manager -->
   <project path="packages/apps/SlimFileManager" name="SlimRoms/packages_apps_SlimFileManager" remote="github" revision="jb4.3" />
 
